@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionTest", "ReflectionTest\ReflectionTest.csproj", "{3BED2127-768E-47FE-8C19-F2C2DD5225BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionTestLib", "ReflectionTestLib\ReflectionTestLib.csproj", "{90B2BC96-1DDA-448D-9896-710EAB4FBD39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BED2127-768E-47FE-8C19-F2C2DD5225BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BED2127-768E-47FE-8C19-F2C2DD5225BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BED2127-768E-47FE-8C19-F2C2DD5225BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BED2127-768E-47FE-8C19-F2C2DD5225BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B2BC96-1DDA-448D-9896-710EAB4FBD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B2BC96-1DDA-448D-9896-710EAB4FBD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B2BC96-1DDA-448D-9896-710EAB4FBD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B2BC96-1DDA-448D-9896-710EAB4FBD39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ReflectionTest\ReflectionTest.csproj
+	EndGlobalSection
+EndGlobal

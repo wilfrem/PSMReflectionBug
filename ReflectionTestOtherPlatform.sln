@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionTestOtherPlatform", "ReflectionTest\ReflectionTestOtherPlatform.csproj", "{3055D988-1BAC-46C8-B228-C1426F025BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionTestLibOtherPlatform", "ReflectionTestLib\ReflectionTestLibOtherPlatform.csproj", "{C68C67A3-4AA2-427D-AF8D-EE34AB23DEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3055D988-1BAC-46C8-B228-C1426F025BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3055D988-1BAC-46C8-B228-C1426F025BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3055D988-1BAC-46C8-B228-C1426F025BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3055D988-1BAC-46C8-B228-C1426F025BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68C67A3-4AA2-427D-AF8D-EE34AB23DEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68C67A3-4AA2-427D-AF8D-EE34AB23DEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68C67A3-4AA2-427D-AF8D-EE34AB23DEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68C67A3-4AA2-427D-AF8D-EE34AB23DEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
