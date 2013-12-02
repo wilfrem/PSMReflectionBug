@@ -11,7 +11,7 @@ internal classの型情報をpublic classを通じて取得し、Activator.Creat
 再現環境
 ===========
 * PlayStation Mobile Simulator
-
+* Vita
 
 問題の無い環境
 ===============
